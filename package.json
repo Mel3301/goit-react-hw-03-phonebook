@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mel3301.github.io/yourlink/",
+  "homepage": "https://Mel3301.github.io/goit-react-hw-03-phonebook/",
   "babel": {
     "plugins": [
       "babel-plugin-styled-components"
